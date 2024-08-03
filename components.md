@@ -2,6 +2,8 @@
 
 Doctave comes with a library of **UI and layout components**. You've already seen some in action on the [`README.md`](/) page. Here are some other examples of what you can do with Doctave components.
 
+Hello, this is an example.
+
 You can find the full documentation for Doctave's components in our online documentation:
 
 <Button variant="secondary" href="https://docs.doctave.com/components">Read the docs ›</Button>
