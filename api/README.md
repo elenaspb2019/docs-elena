@@ -1,4 +1,4 @@
-# OpenAPI documentation
+# OpenAPI Documentation
 
 Doctave can generate API reference documentation from your OpenAPI specification.
 
