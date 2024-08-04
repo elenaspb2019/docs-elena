@@ -7,7 +7,7 @@ Tabs and subtabs can be used to split your documentation into logical sections. 
 This demo project has 2 tabs:
 
 - A ["Home"](/) section that acts as your landing page
-- An ["API Reference"](/api) section for documentation generated from an OpenAPI specification
+- An ["API Reference"](/docs) section for documentation generated from an OpenAPI specification
 
 ## How tabs work
 
@@ -50,7 +50,7 @@ tabs:
         set: devicon
         name: typescript
   - label: API Reference
-    path: /api/
+    path: /docs/
 ```
 
 Under the `tabs:` key, we define a list of 3 tabs, each with a label and path.

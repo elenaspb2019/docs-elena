@@ -19,7 +19,7 @@ theme:
 # Read the docs: https://docs.doctave.com/contents/api-reference-documentation
 open_api:
   - spec_file: openapi.yaml
-    uri_prefix: /api/reference # The URL under which the spec will be placed
+    uri_prefix: /docs/reference # The URL under which the spec will be placed
 
 # Customize your tab structure
 # Read the docs: https://docs.doctave.com/v2/contents/tabs-and-subtabs
@@ -27,7 +27,7 @@ tabs:
   - label: Documentation
     path: /
   - label: API Reference
-    path: /api/
+    path: /docs/
 
 # Add useful links for your readers in your header
 # Read the docs: https://docs.doctave.com/customization/header
