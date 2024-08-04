@@ -22,7 +22,7 @@ You can also look at how you can use Doctave's component system to create comple
             Add your own OpenAPI specification to this project and generate your own API documentation.
         </Box>
 
-        <Button href="/api">Learn More</Button>
+        <Button href="/docs">Learn More</Button>
     </Flex>
   </Card>
 
