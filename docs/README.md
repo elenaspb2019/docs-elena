@@ -6,7 +6,7 @@ This is an example project with a simple OpenAPI specification included for an i
 
 ## Using my own OpenAPI spec
 
-All you have to do is replace the `openapi.yaml` file in the root of this project with your own OpenAPI spec.
+You can easily replace the `open API.yaml` file in the root of this project with your own OpenAPI spec.
 
 ## Read more
 
